@@ -10,16 +10,11 @@ import PromptCreator from './components/PromptCreator.vue';
 
 export default {
   components: {
-    PromptCreator,
-  },
+    PromptCreator
+  }
 };
 </script>
 
 <style>
-/* Add any global styles here */
-#app {
-  font-family: Arial, sans-serif;
-  text-align: center;
-  color: #333;
-}
+/* Global styles can go here */
 </style>
